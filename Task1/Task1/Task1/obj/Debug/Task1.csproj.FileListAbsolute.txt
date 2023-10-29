@@ -1,0 +1,16 @@
+F:\classes\2023\EB411-Intro-To-Programming-Practitioners\week1\workbook1\solution\Task1\Task1\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+F:\classes\2023\EB411-Intro-To-Programming-Practitioners\week1\workbook1\solution\Task1\Task1\Task1\obj\Debug\Task1.csproj.SuggestedBindingRedirects.cache
+F:\classes\2023\EB411-Intro-To-Programming-Practitioners\week1\workbook1\solution\Task1\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+F:\classes\2023\EB411-Intro-To-Programming-Practitioners\week1\workbook1\solution\Task1\Task1\Task1\bin\Debug\Task1.exe.config
+F:\classes\2023\EB411-Intro-To-Programming-Practitioners\week1\workbook1\solution\Task1\Task1\Task1\bin\Debug\Task1.exe
+F:\classes\2023\EB411-Intro-To-Programming-Practitioners\week1\workbook1\solution\Task1\Task1\Task1\bin\Debug\Task1.pdb
+F:\classes\2023\EB411-Intro-To-Programming-Practitioners\week1\workbook1\solution\Task1\Task1\Task1\obj\Debug\Task1.exe
+F:\classes\2023\EB411-Intro-To-Programming-Practitioners\week1\workbook1\solution\Task1\Task1\Task1\obj\Debug\Task1.pdb
+D:\classes\2023\EB411-Intro-To-Programming-Practitioners\week1\workbook1\solution\Task1\Task1\Task1\bin\Debug\Task1.exe.config
+D:\classes\2023\EB411-Intro-To-Programming-Practitioners\week1\workbook1\solution\Task1\Task1\Task1\bin\Debug\Task1.exe
+D:\classes\2023\EB411-Intro-To-Programming-Practitioners\week1\workbook1\solution\Task1\Task1\Task1\bin\Debug\Task1.pdb
+D:\classes\2023\EB411-Intro-To-Programming-Practitioners\week1\workbook1\solution\Task1\Task1\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+D:\classes\2023\EB411-Intro-To-Programming-Practitioners\week1\workbook1\solution\Task1\Task1\Task1\obj\Debug\Task1.csproj.SuggestedBindingRedirects.cache
+D:\classes\2023\EB411-Intro-To-Programming-Practitioners\week1\workbook1\solution\Task1\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+D:\classes\2023\EB411-Intro-To-Programming-Practitioners\week1\workbook1\solution\Task1\Task1\Task1\obj\Debug\Task1.exe
+D:\classes\2023\EB411-Intro-To-Programming-Practitioners\week1\workbook1\solution\Task1\Task1\Task1\obj\Debug\Task1.pdb
