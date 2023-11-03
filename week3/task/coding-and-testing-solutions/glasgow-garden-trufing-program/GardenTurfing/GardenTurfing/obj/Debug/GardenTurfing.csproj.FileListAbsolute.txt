@@ -1,0 +1,8 @@
+F:\classes\2023\EB411-Intro-To-Programming-Practitioners\week3\task\coding-and-testing-solutions\glasgow-garden-trufing-program\GardenTurfing\GardenTurfing\bin\Debug\GardenTurfing.exe.config
+F:\classes\2023\EB411-Intro-To-Programming-Practitioners\week3\task\coding-and-testing-solutions\glasgow-garden-trufing-program\GardenTurfing\GardenTurfing\bin\Debug\GardenTurfing.exe
+F:\classes\2023\EB411-Intro-To-Programming-Practitioners\week3\task\coding-and-testing-solutions\glasgow-garden-trufing-program\GardenTurfing\GardenTurfing\bin\Debug\GardenTurfing.pdb
+F:\classes\2023\EB411-Intro-To-Programming-Practitioners\week3\task\coding-and-testing-solutions\glasgow-garden-trufing-program\GardenTurfing\GardenTurfing\obj\Debug\GardenTurfing.csproj.AssemblyReference.cache
+F:\classes\2023\EB411-Intro-To-Programming-Practitioners\week3\task\coding-and-testing-solutions\glasgow-garden-trufing-program\GardenTurfing\GardenTurfing\obj\Debug\GardenTurfing.csproj.SuggestedBindingRedirects.cache
+F:\classes\2023\EB411-Intro-To-Programming-Practitioners\week3\task\coding-and-testing-solutions\glasgow-garden-trufing-program\GardenTurfing\GardenTurfing\obj\Debug\GardenTurfing.csproj.CoreCompileInputs.cache
+F:\classes\2023\EB411-Intro-To-Programming-Practitioners\week3\task\coding-and-testing-solutions\glasgow-garden-trufing-program\GardenTurfing\GardenTurfing\obj\Debug\GardenTurfing.exe
+F:\classes\2023\EB411-Intro-To-Programming-Practitioners\week3\task\coding-and-testing-solutions\glasgow-garden-trufing-program\GardenTurfing\GardenTurfing\obj\Debug\GardenTurfing.pdb
